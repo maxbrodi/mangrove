@@ -25,9 +25,6 @@
 - firstname: Alice
   lastname: Clavel
   twitter: " "
-- firstname: Ambroise
-  lastname: Collon
-  twitter: ambroisecollon
 - firstname: Fiodor
   lastname: Tonti
   twitter: happytorso
@@ -196,9 +193,6 @@
 - firstname: Aimilia
   lastname: Tsakiri
   twitter: " "
-- firstname: Svenia
-  lastname: Busson
-  twitter: svenibus
 - firstname: Marisa
   lastname: Sanchez
   twitter: M_marisa_
